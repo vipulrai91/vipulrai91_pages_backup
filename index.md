@@ -2,9 +2,23 @@ Hello and welcome to my blog.
 
 
 ## Hello this is Vipul and this is where I blog.
-Here you can find my recent work and pet projects I have been working, 
-also I have recently moved away from blogger and other places where I used to blog , 
-so it would feel nearly empty at this point of time.
+
+I work as Data Scientist and Data Architect at SmartNomad.
+
+## Experience Summary
+
+Engineering professional with substantial experience designing and executing solutions
+for complex business problems involving large scale data analysis, real-time analytics.
+Knows how to use the right tools when and where they make sense enabling
+organizations effectively analyze and process TB/PB of structured and unstructured
+data.
 
 
-Template used from :  fast.ai fastpages
+
+
+
+
+
+
+
+Template from : https://www.fast.ai/2020/01/16/fast_template/
