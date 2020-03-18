@@ -13,14 +13,13 @@ Knows how to use the right tools when and where they make sense enabling
 organizations effectively analyze and process TB/PB of structured and unstructured
 data.
 
-## My Work
+## Key Skills
+* Frameworks -  Hadoop,Spark
+* Big Data Ecosystem - PySpark,Scala- Spark,Data Frames API,Spark SQL,Spark
+Streaming,Kafka,Map Reduce,Hive,HDFS,AWS,S3,Solr,YARN,SQL
+* ML/DL/AI: CNN,RNN,LSTM,fast.ai,PyTroch,Image Classification,Linear Regression,Logistic Regression,Descision Trees Etc.
 
-<embed src="https://vipulrai91.github.io/resources/VIPUL_RAI_Big_Data_Consultant_6yrs.pdf" type="application/pdf" width="800px" height="800px" />
-
-
-
-
-
+## Detailed profile at : <a href="http://vipulrai91.github.io/resources/VIPUL_RAI_Big_Data_Consultant_6yrs.pdf" target="_blank">Resume</a>
 
 
 Template from : https://www.fast.ai/2020/01/16/fast_template/
