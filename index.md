@@ -1,4 +1,5 @@
-## I am Vipul.
+## Hello ! 
+## Welcome to Vipul's blog.
 
 ![vipul](images/vipul.png)
      
