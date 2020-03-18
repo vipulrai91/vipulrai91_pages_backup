@@ -15,7 +15,7 @@ data.
 
 ## My Work
 
-<embed src="https://vipulrai91.github.io/resources/VIPUL_RAI_Big_Data_Consultant_6yrs.pdf" type="application/pdf" width="1000px" height="800px" />
+<embed src="https://vipulrai91.github.io/resources/VIPUL_RAI_Big_Data_Consultant_6yrs.pdf" type="application/pdf" width="800px" height="800px" />
 
 
 
