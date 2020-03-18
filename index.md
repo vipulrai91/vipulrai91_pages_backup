@@ -1,8 +1,6 @@
-## Hello and welcome to my blog.
-I am Vipul.
+## I am Vipul.
 
 ![vipul](images/vipul.png)
-
      
 I currently work as Data Scientist and Data Architect at SmartNomad.
 
