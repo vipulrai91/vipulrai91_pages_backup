@@ -13,7 +13,9 @@ Knows how to use the right tools when and where they make sense enabling
 organizations effectively analyze and process TB/PB of structured and unstructured
 data.
 
+## My Work
 
+<embed src="https://vipulrai91.github.io/resources/VIPUL_RAI_Big_Data_Consultant_6yrs.pdf" type="application/pdf" />
 
 
 
