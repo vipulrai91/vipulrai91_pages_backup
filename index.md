@@ -1,6 +1,10 @@
 ## Hello and welcome to my blog.
-
-I currently work as Data Scientist and Data Architect at SmartNomad.
+I am Vipul.This is how I look !
+##
+<img src="https://github.com/vipulrai91/vipulrai91.github.io/images/Vipul_Profile_pic.jpeg"
+     style="float: left; margin-right: 10px;" />
+     
+#### I currently work as Data Scientist and Data Architect at SmartNomad.
 
 ## Experience Summary
 
