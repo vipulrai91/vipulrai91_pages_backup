@@ -1,7 +1,7 @@
 ## Hello and welcome to my blog.
 I am Vipul.This is how I look !
 
-![Vipul](images/Vipul_Profile_pic.jpeg)
+![](images/vipul.png)
      
 #### I currently work as Data Scientist and Data Architect at SmartNomad.
 
