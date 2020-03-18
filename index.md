@@ -1,9 +1,6 @@
-Hello and welcome to my blog.
+## Hello and welcome to my blog.
 
-
-## Hello this is Vipul and this is where I blog.
-
-I work as Data Scientist and Data Architect at SmartNomad.
+I currently work as Data Scientist and Data Architect at SmartNomad.
 
 ## Experience Summary
 
@@ -23,3 +20,4 @@ Streaming,Kafka,Map Reduce,Hive,HDFS,AWS,S3,Solr,YARN,SQL
 
 
 Template from : https://www.fast.ai/2020/01/16/fast_template/
+
