@@ -4,7 +4,7 @@
 Stochastic gradient descent (often abbreviated SGD) is an iterative method for optimizing an objective function with suitable smoothness properties (e.g. differentiable or subdifferentiable). It can be regarded as a stochastic approximation of gradient descent optimization, since it replaces the actual gradient (calculated from the entire data set) by an estimate thereof (calculated from a randomly selected subset of the data).Especially in big data applications this reduces the computational burden, achieving faster iterations in trade for a slightly lower convergence rate.
 
 The following example is taken from fast.ai course.
-> summary
+> Summary
 
 
 [Lesson Video Link](https://course.fast.ai/videos/?lesson=2)
@@ -27,24 +27,35 @@ In this part of the lecture we explain Stochastic Gradient Descent (SGD) which i
 ## Linear Regression problem
 The goal of linear regression is to fit a line to a set of points.
 
+Let us create a data set of n = 100
 
 ```python
 n=100
 ```
 
+
 ```python
 x = torch.ones(n,2) 
+
+Returns a tensor filled with the scalar value `1`, with the shape defined
+by the variable argument :attr:`sizes`.
+
 x[:,0].uniform_(-1.,1)
+
+Returns a tensor where x[:,0] is radom number between -1. and 1
+
 x[:5]
 ```
 
 ```python
 a = tensor(3.,2); a
 ```
+Linear regression using Pytorch
 
 ```python
 y = x@a + torch.rand(n)
 ```
+
 
 ```python
 plt.scatter(x[:,0], y);
