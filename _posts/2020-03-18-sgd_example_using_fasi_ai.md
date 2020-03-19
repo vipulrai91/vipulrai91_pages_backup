@@ -42,7 +42,7 @@ by the variable argument :attr:`sizes`.
 
 x[:,0].uniform_(-1.,1)
 
-Returns a tensor where x[:,0] is radom number between -1. and 1
+Returns a tensor where x[:,0] is random number between -1. and 1
 
 x[:5]
 ```
