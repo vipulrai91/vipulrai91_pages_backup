@@ -17,7 +17,7 @@ data.
 * Frameworks -  Hadoop,Spark
 * Big Data Ecosystem - PySpark,Scala- Spark,Data Frames API,Spark SQL,Spark
 Streaming,Kafka,Map Reduce,Hive,HDFS,AWS,S3,Solr,YARN,SQL
-* ML/DL/AI: CNN,RNN,LSTM,fast.ai,PyTroch,Image Classification,Linear Regression,Logistic Regression,Descision Trees Etc.
+* ML/DL/AI: CNN,RNN,LSTM,fast.ai,PyTorch,Image Classification,Linear Regression,Logistic Regression,Descision Trees Etc.
 
 ## Detailed profile at : <a href="http://vipulrai91.github.io/resources/VIPUL_RAI_Big_Data_Consultant_6yrs.pdf" target="_blank">Resume</a>
 
