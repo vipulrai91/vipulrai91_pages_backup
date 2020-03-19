@@ -1,4 +1,8 @@
 # Stochastic Gradient Descent  
+
+[From Wikipedia](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)     
+Stochastic gradient descent (often abbreviated SGD) is an iterative method for optimizing an objective function with suitable smoothness properties (e.g. differentiable or subdifferentiable). It can be regarded as a stochastic approximation of gradient descent optimization, since it replaces the actual gradient (calculated from the entire data set) by an estimate thereof (calculated from a randomly selected subset of the data).Especially in big data applications this reduces the computational burden, achieving faster iterations in trade for a slightly lower convergence rate.
+
 The following example is taken from fast.ai course.
 > summary
 
