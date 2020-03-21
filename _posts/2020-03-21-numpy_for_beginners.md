@@ -1,4 +1,4 @@
-## Basics on Python
+## Numpy for Beginners
 
 ### This tutorial is practice from the course http://cs231n.github.io/
 
