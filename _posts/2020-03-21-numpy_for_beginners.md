@@ -1,4 +1,4 @@
-### Numpy Exercises
+### Numpy for Beginners
 
 #### This tutorial is practice from the course http://cs231n.github.io/
 
@@ -359,7 +359,7 @@ plt.show()
 ```
 
 
-![png](https://github.com/vipulrai91/vipulrai91.github.io/blob/master/images/numpy/output_48_0.png)
+![png](images/numpy/output_48_0.png)
 
 
 
@@ -384,7 +384,7 @@ plt.show()
 ```
 
 
-![png](https://github.com/vipulrai91/vipulrai91.github.io/blob/master/images/numpy/output_49_0.png)
+![png](images/numpy/output_49_0.png)
 
 
 
