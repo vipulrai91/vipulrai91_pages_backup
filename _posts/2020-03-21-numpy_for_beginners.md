@@ -385,9 +385,3 @@ plt.show()
 
 
 ![](/images/numpy/output_49_0.png)
-
-
-
-```python
-
-```
