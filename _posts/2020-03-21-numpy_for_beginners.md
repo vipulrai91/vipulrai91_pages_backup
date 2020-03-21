@@ -1,4 +1,4 @@
-### Numpy for Beginners
+### Numpy Exercises
 
 #### This tutorial is practice from the course http://cs231n.github.io/
 
