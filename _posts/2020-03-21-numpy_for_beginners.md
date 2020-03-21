@@ -359,7 +359,7 @@ plt.show()
 ```
 
 
-![png](images/numpy/output_48_0.png)
+![](/images/numpy/output_48_0.png)
 
 
 
@@ -384,7 +384,7 @@ plt.show()
 ```
 
 
-![png](images/numpy/output_49_0.png)
+![](/images/numpy/output_49_0.png)
 
 
 
