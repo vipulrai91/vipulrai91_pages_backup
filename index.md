@@ -2,8 +2,6 @@
 
 ## Welcome to Vipul's blog.
 
-![vipul](images/vipul.png)
-
 I currently work as Data Scientist and Data Architect at SmartNomad.
 
 ## Experience Summary
