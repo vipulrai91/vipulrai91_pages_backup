@@ -1,8 +1,9 @@
-## Hello ! 
+# Hello World!
+
 ## Welcome to Vipul's blog.
 
 ![vipul](images/vipul.png)
-     
+
 I currently work as Data Scientist and Data Architect at SmartNomad.
 
 ## Experience Summary
@@ -14,12 +15,10 @@ organizations effectively analyze and process TB/PB of structured and unstructur
 data.
 
 ## Key Skills
-* Frameworks -  Hadoop,Spark
-* Big Data Ecosystem - PySpark,Scala- Spark,Data Frames API,Spark SQL,Spark
-Streaming,Kafka,Map Reduce,Hive,HDFS,AWS,S3,Solr,YARN,SQL
-* ML/DL/AI: CNN,RNN,LSTM,fast.ai,PyTorch,Image Classification,Linear Regression,Logistic Regression,Descision Trees Etc.
+
+- Frameworks - Hadoop,Spark
+- Big Data Ecosystem - PySpark,Scala- Spark,Data Frames API,Spark SQL,Spark
+  Streaming,Kafka,Map Reduce,Hive,HDFS,AWS,S3,Solr,YARN,SQL
+- ML/DL/AI: CNN,RNN,LSTM,fast.ai,PyTorch,Image Classification,Linear Regression,Logistic Regression,Descision Trees Etc.
 
 ## Detailed profile at : <a href="http://vipulrai91.github.io/resources/VIPUL_RAI_Big_Data_Consultant_6yrs.pdf" target="_blank">Resume</a>
-
-
-

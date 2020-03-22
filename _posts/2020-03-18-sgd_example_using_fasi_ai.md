@@ -1,11 +1,11 @@
-# Stochastic Gradient Descent  
+# Stochastic Gradient Descent
 
-[From Wikipedia](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)     
+[From Wikipedia](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)  
 Stochastic gradient descent (often abbreviated SGD) is an iterative method for optimizing an objective function with suitable smoothness properties (e.g. differentiable or subdifferentiable). It can be regarded as a stochastic approximation of gradient descent optimization, since it replaces the actual gradient (calculated from the entire data set) by an estimate thereof (calculated from a randomly selected subset of the data).Especially in big data applications this reduces the computational burden, achieving faster iterations in trade for a slightly lower convergence rate.
 
 The following example is taken from fast.ai course.
-> Summary
 
+> Summary
 
 [Lesson Video Link](https://course.fast.ai/videos/?lesson=2)
 
@@ -25,6 +25,7 @@ from fastai.basics import *
 In this part of the lecture we explain Stochastic Gradient Descent (SGD) which is an **optimization** method commonly used in neural networks. We will illustrate the concepts with concrete examples.
 
 ## Linear Regression problem
+
 The goal of linear regression is to fit a line to a set of points.
 
 Let us create a data set of n = 100
@@ -33,9 +34,8 @@ Let us create a data set of n = 100
 n=100
 ```
 
-
 ```python
-x = torch.ones(n,2) 
+x = torch.ones(n,2)
 
 Returns a tensor filled with the scalar value `1`, with the shape defined
 by the variable argument :attr:`sizes`.
@@ -50,12 +50,12 @@ x[:5]
 ```python
 a = tensor(3.,2); a
 ```
+
 Linear regression using Pytorch
 
 ```python
 y = x@a + torch.rand(n)
 ```
-
 
 ```python
 plt.scatter(x[:,0], y);
@@ -83,9 +83,7 @@ plt.scatter(x[:,0],y)
 plt.scatter(x[:,0],y_hat);
 ```
 
-
-So far we have specified the *model* (linear regression) and the *evaluation criteria* (or loss function). Now we need to handle *optimization*; that is, how do we find the best values for a? How do we find the best *fitting* linear regression.
-
+So far we have specified the _model_ (linear regression) and the _evaluation criteria_ (or loss function). Now we need to handle _optimization_; that is, how do we find the best values for a? How do we find the best _fitting_ linear regression.
 
 ## Gradient Descent
 
@@ -148,12 +146,12 @@ In practice, we don't calculate on the whole file at once, but we use mini-batch
 
 ## Vocab
 
- -  Learning rate
- -  Epoch
- -  Minibatch
- -  SGD
- -  Model / Architecture
- -  Parameters
- -  Loss function
+- Learning rate
+- Epoch
+- Minibatch
+- SGD
+- Model / Architecture
+- Parameters
+- Loss function
 
-For classification problems, we use *cross entropy loss*, also known as *negative log likelihood loss*. This penalizes incorrect confident predictions, and correct unconfident predictions.
+For classification problems, we use _cross entropy loss_, also known as _negative log likelihood loss_. This penalizes incorrect confident predictions, and correct unconfident predictions.
