@@ -1,5 +1,5 @@
 # About
-![](/images/vipul.png)
+![vipul](images/vipul.png)
 
 My name is Vipul Rai , I am from India and currently stay in Bengaluru.    
 I have degree in Bachelor's of Technology with Computer Science & Engineering as Specialization.
