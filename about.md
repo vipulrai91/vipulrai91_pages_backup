@@ -1,6 +1,6 @@
 # About
 My name is Vipul Rai , I am from India and currently stay in Bengaluru.    
-I have degree in Bachelor's of Technology with Computer Science & Engineering as Specilization.
+I have degree in Bachelor's of Technology with Computer Science & Engineering as Specialization.
 
 # Reach me at
 
