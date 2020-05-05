@@ -8,4 +8,4 @@ I also do freelancing assignments related to Big Data Ecosystem , Machine Learni
 
 Mail : _vipulrai8891@gmail.com_<br>
 LinkedIn: [LinkedIn](https://in.linkedin.com/in/vipulrai "LinkedIn Profile")<br>
-Github: [Github]("https://github.com/vipulrai91")
+Github: [Github](https://github.com/vipulrai91)
