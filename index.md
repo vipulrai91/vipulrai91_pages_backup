@@ -4,7 +4,7 @@
 
 - I am currently working as contributor to open source s/w [pandas](https://github.com/pandas-dev/pandas) and [scikit-learn](https://github.com/scikit-learn/scikit-learn)<br>
 
-- Looking for interesting opportunites in field of ML/DL/AI/Big Data and open to freelance consulting.
+- Looking for interesting opportunites in field of ML/DL/AI/Big Data , open to freelance consulting.
 
 ## Experience Summary
 
