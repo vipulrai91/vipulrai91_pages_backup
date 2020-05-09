@@ -2,8 +2,9 @@
 
 ## Welcome to Vipul's blog
 
-I am currently working as contributor to open source s/w [pandas](https://github.com/pandas-dev/pandas) and [scikit-learn](https://github.com/scikit-learn/scikit-learn)  
-Looking for interesting opportunites in field of ML/DL/AI/Big Data and open to freelance consulting.
+- I am currently working as contributor to open source s/w [pandas](https://github.com/pandas-dev/pandas) and [scikit-learn](https://github.com/scikit-learn/scikit-learn)<br>
+
+- Looking for interesting opportunites in field of ML/DL/AI/Big Data and open to freelance consulting.
 
 ## Experience Summary
 
@@ -15,4 +16,4 @@ Engineering professional with substantial experience designing and executing sol
 - Big Data Ecosystem - PySpark,Scala- Spark,Data Frames API,Spark SQL,Spark Streaming,Kafka,Map Reduce,Hive,HDFS,AWS,S3,Solr,YARN,SQL
 - ML/DL/AI: CNN,RNN,LSTM,fast.ai,PyTorch,Image Classification,Linear Regression,Logistic Regression,Descision Trees Etc.
 
-## Detailed profile at : [Resume](http://vipulrai91.github.io/resources/VIPUL_RAI_Big_Data_Consultant_6yrs.pdf)
+## Detailed profile at : [Vipul Resume](https://vipulrai91.github.io/markdown-cv/)
