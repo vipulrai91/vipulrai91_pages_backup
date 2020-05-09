@@ -4,7 +4,7 @@
 
 - I currently contributing to open source s/w [pandas](https://github.com/pandas-dev/pandas) and [scikit-learn](https://github.com/scikit-learn/scikit-learn)
 - I am looking for interesting opportunites in field of ML/DL/AI/Big Data , open to Freelance Consulting
-- I do not have a paying job right now , I am using this time to study / do things which I always wanted to `:blush:`
+- I do not have a paying job right now , I am using this time to study / do things which I always wanted to
 
 ## Experience Summary
 
