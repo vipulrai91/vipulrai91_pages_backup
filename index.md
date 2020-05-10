@@ -10,4 +10,4 @@
 
 Engineering professional with substantial experience designing and executing solutions for complex business problems involving large scale data analysis, real-time analytics. Knows how to use the right tools when and where they make sense enabling organizations effectively analyze and process TB/PB of structured and unstructured data.
 
-## Detailed profile at : [Resume](https://vipulrai91.github.io/markdown-cv/)
+## Detailed profile at : [Resume](https://vipulrai91.github.io/resume/)

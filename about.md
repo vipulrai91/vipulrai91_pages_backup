@@ -10,4 +10,4 @@ I also teach sometimes.
 Mail : _vipulrai8891@gmail.com_<br>
 LinkedIn: [LinkedIn](https://in.linkedin.com/in/vipulrai "LinkedIn Profile")<br>
 Github: [Github](https://github.com/vipulrai91)<br>
-Resume: [Resume](https://vipulrai91.github.io/markdown-cv/)
+Resume: [Resume](https://vipulrai91.github.io/resume/)
